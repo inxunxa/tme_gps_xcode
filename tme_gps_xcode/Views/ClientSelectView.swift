@@ -6,9 +6,11 @@ struct ClientSelectView: View {
     @State private var searchText = ""
     @State private var clients: [Client] = []
     @State private var selectedClient: Client?
-    @Binding var selectedVendedor: Vendedor?
+    @State var selectedVendedor: Vendedor?
+    @Query private var allClients: [Client]
     
     private func fetchClients() {
+        print("saerchinv", searchText)
         let descriptor: FetchDescriptor<Client>
         
         if searchText.isEmpty {
@@ -32,51 +34,72 @@ struct ClientSelectView: View {
             let result = try? modelContext.fetch(descriptor)
             await MainActor.run {
                 clients = result ?? []
+                print("loaded", clients)
             }
         }
     }
     
     var body: some View {
-        ZStack {
-            // Background gradient
-            Backgrounds.gradientBottom.ignoresSafeArea()
-            
-            VStack {
-                Text("Vendedor: \(selectedVendedor?.nombre ?? "")")
-                    .font(.headline)
-                    .padding(.top)
+        NavigationStack {
+            ZStack {
+                // Background gradient
+                Backgrounds.gradientBottom.ignoresSafeArea()
                 
-                List(clients, selection: $selectedClient) { client in
-                    Text("\(String(client.id)) - \(client.razon)")
-                        .lineLimit(1)
-                        .truncationMode(.tail)
-                        .tag(client)
-                }
-                .scrollContentBackground(.hidden)
-                .listStyle(.plain)
-                .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Buscar Cliente")
-                .keyboardType(.numberPad)
-                .onChange(of: searchText) { _, _ in
-                    fetchClients()
+                VStack(spacing:0) {
+    
+                    List(selection: $selectedClient) {
+                        Section(header:
+                                    Text("Clientes de: \(selectedVendedor?.nombre ?? "")")
+                            .foregroundColor(.black)
+                            .padding(.horizontal, -10)
+                        ) {
+                            ForEach(clients) { client in
+                                Text("\(String(client.id)) - \(client.razon)")
+                                    .lineLimit(1)
+                                    .truncationMode(.tail)
+                                    .tag(client)
+                            }
+                        }
+                        
+                    }
+                    .scrollContentBackground(.hidden)
+                    .listStyle(.plain)
+                    .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Buscar Cliente")
+                    .keyboardType(.numberPad)
+                    .onChange(of: searchText) { _, _ in
+                        fetchClients()
+                    }
+                    .onChange(of: searchText) { _, _ in
+                        fetchClients()
+                    }
+                    .onAppear {
+                        fetchClients()
+                    }
                 }
             }
-        }
-        .navigationTitle("Seleccione Cliente")
-        .navigationBarTitleDisplayMode(.inline)
-        .toolbar {
-            ToolbarItem(placement: .navigationBarLeading) {
-                Image(.logo1)
+            .navigationTitle("Seleccione Cliente")
+            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .navigationBarLeading) {
+                    Image("logo1")
+                }
             }
-        }
-        .onAppear {
-            fetchClients()
+            .onAppear {
+                fetchClients()
+            }
         }
     }
 }
 
 #Preview {
-    let vnd = Vendedor(id: 1, iniciales: "AA", nombre: "Juan", correo: "juan@juan.com", password: "123456", almacenes: "1")
-    ClientSelectView(selectedVendedor: .constant(vnd))
-        .modelContainer(for: Client.self, inMemory: false)
+    let vnd = Vendedor(id: 1, iniciales: "BHE", nombre: "BARBOSA HIGUERA EDGAR", correo: "juan@juan.com", password: "123456", almacenes: "1")
     
+    let preview = PreviewContainer([Client.self])
+    
+    if let cls = DefaultsJSON.decode(from:"previewClients", type:[Client].self) {
+        preview.add(items: cls)
+    }
+        
+    return ClientSelectView(selectedVendedor: vnd)
+            .modelContainer(preview.container)
 }

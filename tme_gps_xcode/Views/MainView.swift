@@ -17,11 +17,7 @@ struct MainView: View {
             ZStack {
                 // Background gradient
                 Backgrounds.gradientFull.ignoresSafeArea()
-                
-                
-                if loading {
-                    LoaderView(message: "Obteniendo Datos...")
-                }
+                                            
                 
                 List(selection: $selectedVnd) {
                     Section(header:
@@ -30,7 +26,7 @@ struct MainView: View {
                         .padding(.horizontal, -10)
                     ) {
                         ForEach(sortedData) { vnd in
-                            Text(vnd.nombre)
+                            NavigationLink(vnd.nombre, value: vnd)
                         }
                     }
                 }
@@ -55,11 +51,16 @@ struct MainView: View {
                     }
                 }
                 
+                if loading {
+                    LoaderView(message: "Obteniendo Datos...")
+                }
+                
             }
                                     
         } detail: {
             if let selectedVnd = selectedVnd {
-                ClientSelectView(selectedVendedor: $selectedVnd)
+                ClientSelectView(selectedVendedor: selectedVnd)
+                    .navigationTitle("Seleccione Cliente")
             } else {
                 Text("Seleccione un vendedor para continuar")
                     .font(.title3)
@@ -104,6 +105,7 @@ struct MainView: View {
                     modelContext.insert(cl)
                 }
                 try modelContext.save()
+                print("inserted", apiCls.count)
                 
                 /////////////////////////// Sucursales
                 let apiSucs = try await DataService.getSucursales()

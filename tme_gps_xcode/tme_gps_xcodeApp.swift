@@ -12,7 +12,9 @@ import SwiftData
 struct tme_gps_xcodeApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            Client.self,
+            Vendedor.self,
+            Sucursal.self,
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -25,7 +27,7 @@ struct tme_gps_xcodeApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
         .modelContainer(sharedModelContainer)
     }

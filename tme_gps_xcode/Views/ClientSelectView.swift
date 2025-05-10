@@ -54,16 +54,23 @@ struct ClientSelectView: View {
                             .padding(.horizontal, -10)
                         ) {
                             ForEach(clients) { client in
-                                Text("\(String(client.id)) - \(client.razon)")
-                                    .lineLimit(1)
-                                    .truncationMode(.tail)
-                                    .tag(client)
+                                VStack(alignment: .leading, spacing: 2) {
+                                    Text("Num: \(String(client.id))")
+                                        .font(.caption)
+                                        .foregroundColor(.tmeDarkGray)
+                                    
+                                    Text(client.razon)
+                                        .lineLimit(1)
+                                        .truncationMode(.tail)
+                                        .tag(client)
+                                        
+                                    
+                                }
                             }
                         }
                         
                     }
                     .scrollContentBackground(.hidden)
-                    .listStyle(.plain)
                     .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Buscar Cliente")
                     .keyboardType(.numberPad)
                     .onChange(of: searchText) { _, _ in

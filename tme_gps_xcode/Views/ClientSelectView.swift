@@ -7,6 +7,8 @@ struct ClientSelectView: View {
     @State private var clients: [Client] = []
     @State private var selectedClient: Client?
     @State var selectedVendedor: Vendedor?
+    @State private var navigateToSucursalView = false
+    
     @Query private var allClients: [Client]
     
     private func fetchClients() {
@@ -46,7 +48,7 @@ struct ClientSelectView: View {
                 Backgrounds.gradientBottom.ignoresSafeArea()
                 
                 VStack(spacing:0) {
-    
+                    
                     List(selection: $selectedClient) {
                         Section(header:
                                     Text("Clientes de: \(selectedVendedor?.nombre ?? "")")
@@ -54,18 +56,21 @@ struct ClientSelectView: View {
                             .padding(.horizontal, -10)
                         ) {
                             ForEach(clients) { client in
-                                VStack(alignment: .leading, spacing: 2) {
-                                    Text("Num: \(String(client.id))")
-                                        .font(.caption)
-                                        .foregroundColor(.tmeDarkGray)
-                                    
-                                    Text(client.razon)
-                                        .lineLimit(1)
-                                        .truncationMode(.tail)
-                                        .tag(client)
+                                Button {
+                                    selectedClient = client
+                                    navigateToSucursalView = true
+                                } label: {
+                                    VStack(alignment: .leading, spacing: 2) {
+                                        Text("Num: \(String(client.id))")
+                                            .font(.caption)
+                                            .foregroundColor(.tmeDarkGray)
                                         
-                                    
+                                        Text(client.razon)
+                                            .lineLimit(1)
+                                            .truncationMode(.tail)
+                                    }
                                 }
+                                .foregroundColor(.primary)
                             }
                         }
                         
@@ -94,6 +99,7 @@ struct ClientSelectView: View {
             .onAppear {
                 fetchClients()
             }
+            
         }
     }
 }

@@ -28,6 +28,7 @@ struct tme_gps_xcodeApp: App {
     var body: some Scene {
         WindowGroup {
             MainView()
+                .preferredColorScheme(.light)
         }
         .modelContainer(sharedModelContainer)
     }

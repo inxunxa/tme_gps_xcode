@@ -70,7 +70,7 @@ struct MainView: View {
     }
     
     private func updateData() {
-        Task {
+        Task { 
             do {
                 loading = true
                 

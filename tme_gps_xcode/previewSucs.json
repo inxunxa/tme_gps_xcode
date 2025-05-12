@@ -1,0 +1,3779 @@
+
+[
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 4,
+            "id_cliente": "3580",
+            "nombre": "ALMACEN - LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 43,
+            "id_cliente": "42",
+            "nombre": "MATRIZ",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 50,
+            "id_cliente": "555",
+            "nombre": "MATAMOROS",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 51,
+            "id_cliente": "555",
+            "nombre": "JARDIN DORADO",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 70,
+            "id_cliente": "2459",
+            "nombre": "BODEGA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 71,
+            "id_cliente": "2459",
+            "nombre": "PLAYAS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 72,
+            "id_cliente": "2459",
+            "nombre": "ROSARITO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 73,
+            "id_cliente": "2459",
+            "nombre": "FUNDADORES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 74,
+            "id_cliente": "2459",
+            "nombre": "DEL MAR",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 76,
+            "id_cliente": "2459",
+            "nombre": "REVOLUCION",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 77,
+            "id_cliente": "2459",
+            "nombre": "LIBERTAD",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 78,
+            "id_cliente": "2459",
+            "nombre": "OTAY",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 79,
+            "id_cliente": "2459",
+            "nombre": "CENTRO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 80,
+            "id_cliente": "2459",
+            "nombre": "DEL RIO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 81,
+            "id_cliente": "2459",
+            "nombre": "SOLER",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 82,
+            "id_cliente": "2459",
+            "nombre": "LA VILLA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 83,
+            "id_cliente": "2459",
+            "nombre": "LA GLORIA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 84,
+            "id_cliente": "2459",
+            "nombre": "JUAREZ",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 85,
+            "id_cliente": "2459",
+            "nombre": "FERROCARRIL",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 87,
+            "id_cliente": "2459",
+            "nombre": "PARAISO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 88,
+            "id_cliente": "2459",
+            "nombre": "ALAMOS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 89,
+            "id_cliente": "2459",
+            "nombre": "LIMON",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 90,
+            "id_cliente": "2459",
+            "nombre": "LA MESA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 91,
+            "id_cliente": "2459",
+            "nombre": "BRISAS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 92,
+            "id_cliente": "2459",
+            "nombre": "HUERTAS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 93,
+            "id_cliente": "2459",
+            "nombre": "PAPALOTE",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 94,
+            "id_cliente": "2459",
+            "nombre": "INSURGENTES-1",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 95,
+            "id_cliente": "2459",
+            "nombre": "INSURGENTES-2",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 96,
+            "id_cliente": "2459",
+            "nombre": "FLORIDO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 97,
+            "id_cliente": "2459",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 98,
+            "id_cliente": "2459",
+            "nombre": "VILLAFONTANA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 99,
+            "id_cliente": "2459",
+            "nombre": "MATAMOROS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 100,
+            "id_cliente": "2459",
+            "nombre": "AMISTAD",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 101,
+            "id_cliente": "2459",
+            "nombre": "UNIVERSIDAD",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 102,
+            "id_cliente": "2459",
+            "nombre": "INDUSTRIAL OTAY",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 103,
+            "id_cliente": "2459",
+            "nombre": "RUBI",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 104,
+            "id_cliente": "2459",
+            "nombre": "REFUGIO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 105,
+            "id_cliente": "2459",
+            "nombre": "JARDINES DE LA MESA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 106,
+            "id_cliente": "2459",
+            "nombre": "DELEGACION LA PRESA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 107,
+            "id_cliente": "2459",
+            "nombre": "VILLA FLORESTA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 110,
+            "id_cliente": "2459",
+            "nombre": "LOMAS HIPODROMO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 111,
+            "id_cliente": "2459",
+            "nombre": "SANCHEZ TABOADA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 112,
+            "id_cliente": "2459",
+            "nombre": "LAS TEJAS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 113,
+            "id_cliente": "2459",
+            "nombre": "SANTA FE",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 114,
+            "id_cliente": "2459",
+            "nombre": "TERRAZAS DE LA PRESA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 115,
+            "id_cliente": "2459",
+            "nombre": "POPOTLA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 116,
+            "id_cliente": "2459",
+            "nombre": "LOS ALTOS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 117,
+            "id_cliente": "2459",
+            "nombre": "MATRIZ",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 118,
+            "id_cliente": "2459",
+            "nombre": "CALLE TERCERA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 119,
+            "id_cliente": "2459",
+            "nombre": "BELLAS ARTES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 120,
+            "id_cliente": "2459",
+            "nombre": "AEROPUERTO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 121,
+            "id_cliente": "2459",
+            "nombre": "SANTA ANITA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 122,
+            "id_cliente": "2459",
+            "nombre": "LOMA BONITA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 123,
+            "id_cliente": "2459",
+            "nombre": "PLAZA OASIS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 124,
+            "id_cliente": "2459",
+            "nombre": "LAS FUENTES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 125,
+            "id_cliente": "2459",
+            "nombre": "AGUACALIENTE II",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 126,
+            "id_cliente": "2459",
+            "nombre": "PACIFICO INDUSTRIAL",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 141,
+            "id_cliente": "2982",
+            "nombre": "RIO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 142,
+            "id_cliente": "2982",
+            "nombre": "SOLER",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 143,
+            "id_cliente": "2982",
+            "nombre": "INSURGENTES",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 144,
+            "id_cliente": "2982",
+            "nombre": "FLORIDO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 145,
+            "id_cliente": "2982",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 147,
+            "id_cliente": "2982",
+            "nombre": "VILLA FLORESTA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 152,
+            "id_cliente": "3293",
+            "nombre": "REFORMA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 162,
+            "id_cliente": "3435",
+            "nombre": "CEDIS XALAPA",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 188,
+            "id_cliente": "175",
+            "nombre": "MATRIZ",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 189,
+            "id_cliente": "175",
+            "nombre": "ENCANTO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 190,
+            "id_cliente": "175",
+            "nombre": "DESCANSO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 191,
+            "id_cliente": "2459",
+            "nombre": "TORRE DE AGUA CALIENTE",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 208,
+            "id_cliente": "4027",
+            "nombre": "CEDIS MEXICALI",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 209,
+            "id_cliente": "4027",
+            "nombre": "PORTICOS",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 210,
+            "id_cliente": "4027",
+            "nombre": "CASA BLANCA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 211,
+            "id_cliente": "4027",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 215,
+            "id_cliente": "3521",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 217,
+            "id_cliente": "4027",
+            "nombre": "CENTRO CIVICO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 224,
+            "id_cliente": "4340",
+            "nombre": "AEROPUERTO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 227,
+            "id_cliente": "2131",
+            "nombre": "LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 243,
+            "id_cliente": "4929",
+            "nombre": "PLANTA EL FLORIDO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 244,
+            "id_cliente": "4929",
+            "nombre": "PLANTA INSURGENTES",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 252,
+            "id_cliente": "2459",
+            "nombre": "PLANETARIO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 255,
+            "id_cliente": "2131",
+            "nombre": "LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 256,
+            "id_cliente": "2131",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 260,
+            "id_cliente": "4995",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 264,
+            "id_cliente": "4138",
+            "nombre": "POSTAL",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 269,
+            "id_cliente": "4138",
+            "nombre": "IMPERIAL",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 289,
+            "id_cliente": "4155",
+            "nombre": "MEXICALI",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 292,
+            "id_cliente": "4155",
+            "nombre": "MATRIZ",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 294,
+            "id_cliente": "2459",
+            "nombre": "GUAYCURA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 300,
+            "id_cliente": "5655",
+            "nombre": "KM 43",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 301,
+            "id_cliente": "2459",
+            "nombre": "OTAY MODULOS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 306,
+            "id_cliente": "2459",
+            "nombre": "VILLA DEL CAMPO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 308,
+            "id_cliente": "3702",
+            "nombre": "SALINAS",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 309,
+            "id_cliente": "175",
+            "nombre": "BENITEZ",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 310,
+            "id_cliente": "2337",
+            "nombre": "CALLE 2DA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 311,
+            "id_cliente": "2337",
+            "nombre": "CALLE 9NA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 312,
+            "id_cliente": "2337",
+            "nombre": "CALLE 17",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 315,
+            "id_cliente": "3702",
+            "nombre": "MATRIZ",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 323,
+            "id_cliente": "2459",
+            "nombre": "TECNOLOGICO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 333,
+            "id_cliente": "4155",
+            "nombre": "NUEVO LEON",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 334,
+            "id_cliente": "4155",
+            "nombre": "JAZMIN",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 335,
+            "id_cliente": "4155",
+            "nombre": "EJIDO PUEBLA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 336,
+            "id_cliente": "4155",
+            "nombre": "PARQUE INDUSTRIAL SLRC",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 338,
+            "id_cliente": "5832",
+            "nombre": "LA PRESA",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 341,
+            "id_cliente": "2721",
+            "nombre": "El Bosque - Matriz",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 355,
+            "id_cliente": "83",
+            "nombre": "CORTEZ",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 356,
+            "id_cliente": "859",
+            "nombre": "MANEADERO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 360,
+            "id_cliente": "5832",
+            "nombre": "CORREO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 370,
+            "id_cliente": "4355",
+            "nombre": "TIJUANA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 371,
+            "id_cliente": "4355",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 382,
+            "id_cliente": "175",
+            "nombre": "OTAY",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 383,
+            "id_cliente": "4138",
+            "nombre": "OTAY",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 384,
+            "id_cliente": "2459",
+            "nombre": "COLINAS de CALIFORNIA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 396,
+            "id_cliente": "3276",
+            "nombre": "LAZARO CARDENAS",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 397,
+            "id_cliente": "3276",
+            "nombre": "CARRANZA",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 399,
+            "id_cliente": "3276",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 407,
+            "id_cliente": "2113",
+            "nombre": "CEDRO 2",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 408,
+            "id_cliente": "2113",
+            "nombre": "LIBERTAD",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 414,
+            "id_cliente": "5897",
+            "nombre": "TIJUANA CENTRO",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 415,
+            "id_cliente": "5897",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 419,
+            "id_cliente": "175",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 427,
+            "id_cliente": "3435",
+            "nombre": "CEDIS HERMOSILLO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 429,
+            "id_cliente": "2459",
+            "nombre": "REFORMA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 431,
+            "id_cliente": "5897",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 432,
+            "id_cliente": "2459",
+            "nombre": "LOS LOBOS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 435,
+            "id_cliente": "2459",
+            "nombre": "5 Y 10",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 436,
+            "id_cliente": "2459",
+            "nombre": "PACIFICO II",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 441,
+            "id_cliente": "6281",
+            "nombre": "MUTUALISMO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 442,
+            "id_cliente": "6281",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 443,
+            "id_cliente": "6281",
+            "nombre": "ROSARITO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 444,
+            "id_cliente": "6281",
+            "nombre": "BUENOS AIRES SUR",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 468,
+            "id_cliente": "2459",
+            "nombre": "FRACC. MONTERREY",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 470,
+            "id_cliente": "6077",
+            "nombre": "LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 471,
+            "id_cliente": "3158",
+            "nombre": "PANAMERICANO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 472,
+            "id_cliente": "3158",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 478,
+            "id_cliente": "4072",
+            "nombre": "Ensenada",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 484,
+            "id_cliente": "5010",
+            "nombre": "PALMAS",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 485,
+            "id_cliente": "5010",
+            "nombre": "RIO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 486,
+            "id_cliente": "5010",
+            "nombre": "MESA",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 487,
+            "id_cliente": "4862",
+            "nombre": "SAN QUINTIN",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 488,
+            "id_cliente": "4862",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 494,
+            "id_cliente": "4340",
+            "nombre": "EL SAUZAL",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 497,
+            "id_cliente": "4027",
+            "nombre": "JUVENTUD 2000",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 499,
+            "id_cliente": "4027",
+            "nombre": "LAZARO CARDENAS",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 502,
+            "id_cliente": "3035",
+            "nombre": "CAMALU",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 503,
+            "id_cliente": "3035",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 504,
+            "id_cliente": "4027",
+            "nombre": "MICHOACAN",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 505,
+            "id_cliente": "4027",
+            "nombre": "NUEVO MEXICALI",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 506,
+            "id_cliente": "4027",
+            "nombre": "PUEBLA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 507,
+            "id_cliente": "4027",
+            "nombre": "CALLE ONCE",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 508,
+            "id_cliente": "4027",
+            "nombre": "CALLE NOVENA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 509,
+            "id_cliente": "4027",
+            "nombre": "CUAUHTEMOC",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 510,
+            "id_cliente": "4027",
+            "nombre": "PALACO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 511,
+            "id_cliente": "4027",
+            "nombre": "SAN FELIPE",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 512,
+            "id_cliente": "2459",
+            "nombre": "MADERO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 513,
+            "id_cliente": "6660",
+            "nombre": "Pedregal",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 522,
+            "id_cliente": "2080",
+            "nombre": "SAN JOSE del CABO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 523,
+            "id_cliente": "2080",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 526,
+            "id_cliente": "2661",
+            "nombre": "LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 527,
+            "id_cliente": "2661",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 537,
+            "id_cliente": "5568",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 538,
+            "id_cliente": "5926",
+            "nombre": "CHAPULTEPEC",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 539,
+            "id_cliente": "2459",
+            "nombre": "ROMA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 540,
+            "id_cliente": "5926",
+            "nombre": "MATRIZ",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 545,
+            "id_cliente": "6750",
+            "nombre": "CASTELLON",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 546,
+            "id_cliente": "6750",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 547,
+            "id_cliente": "2459",
+            "nombre": "CLOUTHIER",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 551,
+            "id_cliente": "6669",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 554,
+            "id_cliente": "6660",
+            "nombre": "SLRC",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 555,
+            "id_cliente": "6660",
+            "nombre": "MATRIZ",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 557,
+            "id_cliente": "3158",
+            "nombre": "OBRERA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 562,
+            "id_cliente": "3275",
+            "nombre": "LA PAZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 563,
+            "id_cliente": "3275",
+            "nombre": "LOS MOCHIS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 564,
+            "id_cliente": "5010",
+            "nombre": "CONQUISTADOR",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 569,
+            "id_cliente": "6820",
+            "nombre": "SAN JOSE del CABO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 571,
+            "id_cliente": "2459",
+            "nombre": "PASEO PLAYAS ",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 573,
+            "id_cliente": "5849",
+            "nombre": "BODEGA",
+            "cveVendedor": "MMG",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 578,
+            "id_cliente": "2459",
+            "nombre": "VILLA DEL PRADO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 580,
+            "id_cliente": "6495",
+            "nombre": "ABURTO",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 581,
+            "id_cliente": "2459",
+            "nombre": "VERONA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 582,
+            "id_cliente": "6831",
+            "nombre": "OTAY",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 583,
+            "id_cliente": "6831",
+            "nombre": "SANTA FE",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 585,
+            "id_cliente": "2459",
+            "nombre": "PLAZA EL REFUGIO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 586,
+            "id_cliente": "2459",
+            "nombre": "EL LAGO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 591,
+            "id_cliente": "3158",
+            "nombre": "MATAMOROS",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 592,
+            "id_cliente": "5841",
+            "nombre": "TIJUANA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 603,
+            "id_cliente": "6660",
+            "nombre": "PUEBLO NUEVO",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 609,
+            "id_cliente": "3513",
+            "nombre": "CALLE ONCE",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 613,
+            "id_cliente": "2459",
+            "nombre": "CLINICA 27",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 614,
+            "id_cliente": "6051",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 618,
+            "id_cliente": "2459",
+            "nombre": "NATURA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 621,
+            "id_cliente": "3158",
+            "nombre": "MEXICALI",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 625,
+            "id_cliente": "6307",
+            "nombre": "MONTESINOS",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 626,
+            "id_cliente": "6307",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 628,
+            "id_cliente": "6498",
+            "nombre": "MARIANO",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 629,
+            "id_cliente": "6498",
+            "nombre": "GUAYCURA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 632,
+            "id_cliente": "2459",
+            "nombre": "PRESIDENTES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 635,
+            "id_cliente": "175",
+            "nombre": "SANTA FE",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 636,
+            "id_cliente": "7030",
+            "nombre": "RANCHITO",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 637,
+            "id_cliente": "7030",
+            "nombre": "OLIVARES",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 639,
+            "id_cliente": "7030",
+            "nombre": "SAN BENITO",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 640,
+            "id_cliente": "3082",
+            "nombre": "BUENOS AIRES",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 641,
+            "id_cliente": "3082",
+            "nombre": "ALTIPLANO",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 645,
+            "id_cliente": "5801",
+            "nombre": "MATRIZ",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 648,
+            "id_cliente": "2318",
+            "nombre": "TIJUANA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 649,
+            "id_cliente": "6606",
+            "nombre": "SAN QUINTIN",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 650,
+            "id_cliente": "6606",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 651,
+            "id_cliente": "6446",
+            "nombre": "MELCHOR OCAMPO",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 652,
+            "id_cliente": "6446",
+            "nombre": "SAMUEL OCAÑA",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 653,
+            "id_cliente": "594",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 654,
+            "id_cliente": "594",
+            "nombre": "BUENOS AIRES",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 656,
+            "id_cliente": "594",
+            "nombre": "PACIFICO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 657,
+            "id_cliente": "2459",
+            "nombre": "PORTICOS COLIBRI",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 658,
+            "id_cliente": "3702",
+            "nombre": "BUENA VISTA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 659,
+            "id_cliente": "82",
+            "nombre": "JALISCO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 660,
+            "id_cliente": "82",
+            "nombre": "CENTRO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 661,
+            "id_cliente": "2459",
+            "nombre": "MURUA ALAMAR",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 667,
+            "id_cliente": "6102",
+            "nombre": "LA POSTAL",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 668,
+            "id_cliente": "6102",
+            "nombre": "MATRIZ",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 673,
+            "id_cliente": "3275",
+            "nombre": "UNIVERSIDAD",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 676,
+            "id_cliente": "2459",
+            "nombre": "MACHADO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 681,
+            "id_cliente": "3437",
+            "nombre": "VALLARTA",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 688,
+            "id_cliente": "7198",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 689,
+            "id_cliente": "7198",
+            "nombre": "CUCAPAH",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 691,
+            "id_cliente": "7217",
+            "nombre": "SAN JOSE DEL CABO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 692,
+            "id_cliente": "7217",
+            "nombre": "MATRIZ - CD CONSTITUCION",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 694,
+            "id_cliente": "2459",
+            "nombre": "DELICIAS II",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 697,
+            "id_cliente": "6606",
+            "nombre": "MATRIZ",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 699,
+            "id_cliente": "2459",
+            "nombre": "JIBARITO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 703,
+            "id_cliente": "6256",
+            "nombre": "MATRIZ",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 704,
+            "id_cliente": "6256",
+            "nombre": "ESGA",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 705,
+            "id_cliente": "6561",
+            "nombre": "OTAY",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 706,
+            "id_cliente": "6561",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 712,
+            "id_cliente": "716",
+            "nombre": "LA MESA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 713,
+            "id_cliente": "716",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 719,
+            "id_cliente": "4814",
+            "nombre": "MATRIZ",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 723,
+            "id_cliente": "175",
+            "nombre": "FUNDADORES",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 724,
+            "id_cliente": "2459",
+            "nombre": "MURUA CAMPESTRE ",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 725,
+            "id_cliente": "2113",
+            "nombre": "CEDRO",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 727,
+            "id_cliente": "7327",
+            "nombre": "TECATE CENTRO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 728,
+            "id_cliente": "7327",
+            "nombre": "TECATE CAMINO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 729,
+            "id_cliente": "7327",
+            "nombre": "TECATE TRES",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 730,
+            "id_cliente": "7327",
+            "nombre": "LOS OLIVOS",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 733,
+            "id_cliente": "6596",
+            "nombre": "NAVOJOA",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 736,
+            "id_cliente": "6596",
+            "nombre": "OBREGON",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 739,
+            "id_cliente": "6596",
+            "nombre": "GUAYMAS",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 740,
+            "id_cliente": "6596",
+            "nombre": "HERMOSILLO",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 743,
+            "id_cliente": "2459",
+            "nombre": "INDUSTRIAL OTAY II",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 744,
+            "id_cliente": "6802",
+            "nombre": "ORIZABA",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 745,
+            "id_cliente": "2459",
+            "nombre": "GUERRERO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 747,
+            "id_cliente": "6802",
+            "nombre": "NOVENA",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 748,
+            "id_cliente": "7327",
+            "nombre": "PPG AUTOMOTIVO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 754,
+            "id_cliente": "590",
+            "nombre": "PLAYAS",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 755,
+            "id_cliente": "2459",
+            "nombre": "VIRREYES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 758,
+            "id_cliente": "2459",
+            "nombre": "LA VILLA 2",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 761,
+            "id_cliente": "6651",
+            "nombre": "PLAYAS",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 762,
+            "id_cliente": "6651",
+            "nombre": "ROMA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 763,
+            "id_cliente": "3275",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 764,
+            "id_cliente": "175",
+            "nombre": "ROSARITO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 769,
+            "id_cliente": "7400",
+            "nombre": "CABORCA",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 770,
+            "id_cliente": "7400",
+            "nombre": "MATRIZ",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 771,
+            "id_cliente": "3420",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 772,
+            "id_cliente": "3420",
+            "nombre": "ROSARITO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 776,
+            "id_cliente": "3275",
+            "nombre": "SAN JOSE del CABO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 783,
+            "id_cliente": "7434",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 784,
+            "id_cliente": "7434",
+            "nombre": "PEDREGAL",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 785,
+            "id_cliente": "2459",
+            "nombre": "BARCELONA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 786,
+            "id_cliente": "6774",
+            "nombre": "MATRIZ",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 787,
+            "id_cliente": "6774",
+            "nombre": "ALCAZAR",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 788,
+            "id_cliente": "175",
+            "nombre": "ZONA RIO",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 790,
+            "id_cliente": "7224",
+            "nombre": "GUADALAJARA",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 791,
+            "id_cliente": "7481",
+            "nombre": "ATLAS JARDINES",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 795,
+            "id_cliente": "2459",
+            "nombre": "GABILONDO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 803,
+            "id_cliente": "7457",
+            "nombre": "TERRAZAS",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 805,
+            "id_cliente": "6596",
+            "nombre": "SAN CARLOS",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 815,
+            "id_cliente": "2459",
+            "nombre": "CALLE CUARTA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 820,
+            "id_cliente": "6511",
+            "nombre": "COLONET",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 821,
+            "id_cliente": "6511",
+            "nombre": "DIAZ ORDAZ",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 825,
+            "id_cliente": "2459",
+            "nombre": "CEDROS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 826,
+            "id_cliente": "7481",
+            "nombre": "VIRREYES",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 827,
+            "id_cliente": "5926",
+            "nombre": "SAUZAL",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 830,
+            "id_cliente": "7273",
+            "nombre": "MATRIZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 831,
+            "id_cliente": "7273",
+            "nombre": "ABASOLO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 832,
+            "id_cliente": "7273",
+            "nombre": "SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 833,
+            "id_cliente": "7166",
+            "nombre": "SAN FELIPE",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 834,
+            "id_cliente": "7166",
+            "nombre": "MEXICALI",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 836,
+            "id_cliente": "4479",
+            "nombre": "REAL de S FCO",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 837,
+            "id_cliente": "4479",
+            "nombre": "NATURA",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 839,
+            "id_cliente": "7459",
+            "nombre": "ALMACEN SI - TAG",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 841,
+            "id_cliente": "6992",
+            "nombre": "SAN QUINTIN",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 842,
+            "id_cliente": "6992",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 843,
+            "id_cliente": "2459",
+            "nombre": "PRIMO TAPIA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 844,
+            "id_cliente": "7902",
+            "nombre": "PROGRESO - HMO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 846,
+            "id_cliente": "2459",
+            "nombre": "VALLE DEL SOL",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 847,
+            "id_cliente": "4232",
+            "nombre": "ALAMOS",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 849,
+            "id_cliente": "7079",
+            "nombre": "LA FERRE",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 850,
+            "id_cliente": "7079",
+            "nombre": "FERRETERIA OASIS",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 851,
+            "id_cliente": "7529",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 853,
+            "id_cliente": "82",
+            "nombre": "CIRCUITO ORIENTE",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 855,
+            "id_cliente": "6511",
+            "nombre": "CAMALU",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 856,
+            "id_cliente": "2459",
+            "nombre": "Rosarito Norte",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 857,
+            "id_cliente": "3293",
+            "nombre": "VALLE DORADO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 859,
+            "id_cliente": "6307",
+            "nombre": "MAGALLON ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 860,
+            "id_cliente": "7676",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 861,
+            "id_cliente": "7676",
+            "nombre": "LAUREL",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 864,
+            "id_cliente": "7481",
+            "nombre": "LOPEZ MATEOS",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 869,
+            "id_cliente": "767",
+            "nombre": "COLONET",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 870,
+            "id_cliente": "6579",
+            "nombre": "COLONET",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 871,
+            "id_cliente": "6579",
+            "nombre": "CAMALU",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 872,
+            "id_cliente": "767",
+            "nombre": "DIAZ ORDAZ",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 873,
+            "id_cliente": "7301",
+            "nombre": "ENSENADA",
+            "cveVendedor": "MJM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 874,
+            "id_cliente": "7301",
+            "nombre": "ROSARITO",
+            "cveVendedor": "MJM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 875,
+            "id_cliente": "7636",
+            "nombre": "MATRIZ",
+            "cveVendedor": "FRA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 876,
+            "id_cliente": "7636",
+            "nombre": "CHAPULTEPEC",
+            "cveVendedor": "FRA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 879,
+            "id_cliente": "2318",
+            "nombre": "ALMACEN",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 880,
+            "id_cliente": "2459",
+            "nombre": "ALTABRISA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 881,
+            "id_cliente": "6774",
+            "nombre": "CONDESA",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 882,
+            "id_cliente": "6232",
+            "nombre": "BODEGA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 883,
+            "id_cliente": "2459",
+            "nombre": "REAL de ROSARITO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 884,
+            "id_cliente": "2459",
+            "nombre": "MACLOVIO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 886,
+            "id_cliente": "7902",
+            "nombre": "QUIROGA - HMO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 887,
+            "id_cliente": "2459",
+            "nombre": "CITY POINT",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 888,
+            "id_cliente": "7676",
+            "nombre": "SAN MARINO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 889,
+            "id_cliente": "2459",
+            "nombre": "MIRADOR",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 890,
+            "id_cliente": "175",
+            "nombre": "DIAZ ORDAZ",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432200)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 891,
+            "id_cliente": "7481",
+            "nombre": "SLRC",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 897,
+            "id_cliente": "7685",
+            "nombre": "TIENDA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 898,
+            "id_cliente": "7685",
+            "nombre": "TALLER",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 902,
+            "id_cliente": "7738",
+            "nombre": "PLANTA ALTA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 903,
+            "id_cliente": "7738",
+            "nombre": "PLANTA BAJA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 904,
+            "id_cliente": "2337",
+            "nombre": "CALLE 26",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 905,
+            "id_cliente": "2459",
+            "nombre": "EJIDO MAZATLAN",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 909,
+            "id_cliente": "6395",
+            "nombre": "HERMOSILLO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 910,
+            "id_cliente": "6395",
+            "nombre": "TIJUANA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 914,
+            "id_cliente": "7759",
+            "nombre": "NOGALES",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 915,
+            "id_cliente": "7759",
+            "nombre": "MATRIZ",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 916,
+            "id_cliente": "7327",
+            "nombre": "KILIWAS ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 917,
+            "id_cliente": "7459",
+            "nombre": "SINALOA",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 919,
+            "id_cliente": "7766",
+            "nombre": "SAN QUINTIN",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 922,
+            "id_cliente": "4961",
+            "nombre": "VICENTE GUERRERO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 925,
+            "id_cliente": "2459",
+            "nombre": "BUENAVISTA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 929,
+            "id_cliente": "82",
+            "nombre": "NUEVA ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 930,
+            "id_cliente": "4961",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 935,
+            "id_cliente": "7555",
+            "nombre": "VILLA VERDE",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 936,
+            "id_cliente": "7555",
+            "nombre": "TIERRA NUEVA",
+            "cveVendedor": "TVA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 938,
+            "id_cliente": "6854",
+            "nombre": "FASTENAL - TIJUANA ASSA ABLOY",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 939,
+            "id_cliente": "7481",
+            "nombre": "PEDREGAL",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 940,
+            "id_cliente": "6918",
+            "nombre": "FLAMINGOS",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 942,
+            "id_cliente": "7470",
+            "nombre": "TECATE",
+            "cveVendedor": "GVJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 943,
+            "id_cliente": "7470",
+            "nombre": "SLRC",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 946,
+            "id_cliente": "7850",
+            "nombre": "LIZ GPE.",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 948,
+            "id_cliente": "7850",
+            "nombre": "VALLE DE LAS PALMAS",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 949,
+            "id_cliente": "7850",
+            "nombre": "TESTERAZO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 951,
+            "id_cliente": "6898",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 953,
+            "id_cliente": "7861",
+            "nombre": "TIJUANA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 954,
+            "id_cliente": "7861",
+            "nombre": "CULIACAN",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 955,
+            "id_cliente": "2459",
+            "nombre": "BUENOS AIRES",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 956,
+            "id_cliente": "4072",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 957,
+            "id_cliente": "4072",
+            "nombre": "CIENEGA",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 959,
+            "id_cliente": "6625",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 962,
+            "id_cliente": "2459",
+            "nombre": "PIEDRAS BLANCAS",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 963,
+            "id_cliente": "2459",
+            "nombre": "EL NIñO",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 966,
+            "id_cliente": "6854",
+            "nombre": "FASTENAL - QUERETARO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 967,
+            "id_cliente": "7586",
+            "nombre": "SAN LUCAS",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 968,
+            "id_cliente": "7586",
+            "nombre": "MATRIZ",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 969,
+            "id_cliente": "7586",
+            "nombre": "CENTENARIO",
+            "cveVendedor": "BHE",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 970,
+            "id_cliente": "7892",
+            "nombre": "FERRETERIA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 971,
+            "id_cliente": "7892",
+            "nombre": "REFACCIONARIA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 972,
+            "id_cliente": "7785",
+            "nombre": "NUEVO LEON",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 973,
+            "id_cliente": "7785",
+            "nombre": "GRULLITA",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 974,
+            "id_cliente": "7785",
+            "nombre": "CALLE 17",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 975,
+            "id_cliente": "2459",
+            "nombre": "VILLA del CAMPO # 2",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 976,
+            "id_cliente": "7812",
+            "nombre": "SAN CARLOS",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 977,
+            "id_cliente": "7812",
+            "nombre": "HERMOSILLO",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 981,
+            "id_cliente": "7596",
+            "nombre": "VIA RAPIDA",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 982,
+            "id_cliente": "7596",
+            "nombre": "MATRIZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 983,
+            "id_cliente": "82",
+            "nombre": "VALLE DE GUADALUPE",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 984,
+            "id_cliente": "6081",
+            "nombre": "ENSENADA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 985,
+            "id_cliente": "6081",
+            "nombre": "RIO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 986,
+            "id_cliente": "6081",
+            "nombre": "TIJUANA",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 987,
+            "id_cliente": "7839",
+            "nombre": "VENADOS",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 988,
+            "id_cliente": "7839",
+            "nombre": "NATURA",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 989,
+            "id_cliente": "7674",
+            "nombre": "MARIANO",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 993,
+            "id_cliente": "7674",
+            "nombre": "ALTABRISA",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 994,
+            "id_cliente": "5801",
+            "nombre": "SAN VICENTE",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 995,
+            "id_cliente": "6388",
+            "nombre": "JARDIN DORADO",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 996,
+            "id_cliente": "6388",
+            "nombre": "LAS TORRES",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 997,
+            "id_cliente": "7930",
+            "nombre": "LA PAZ",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 999,
+            "id_cliente": "7422",
+            "nombre": "GRANJAS",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1000,
+            "id_cliente": "7422",
+            "nombre": "MATAMOROS",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1001,
+            "id_cliente": "7676",
+            "nombre": "VALLE VERDE",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1002,
+            "id_cliente": "7930",
+            "nombre": "TIJUANA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1003,
+            "id_cliente": "590",
+            "nombre": "LA MISION",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1004,
+            "id_cliente": "7288",
+            "nombre": "ABEJA",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1005,
+            "id_cliente": "7288",
+            "nombre": "REFUGIO",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1006,
+            "id_cliente": "7288",
+            "nombre": "BAJA 1000",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1007,
+            "id_cliente": "7288",
+            "nombre": "DELICIAS",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1008,
+            "id_cliente": "6831",
+            "nombre": "ALTIPLANO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1009,
+            "id_cliente": "7935",
+            "nombre": "TREBOL",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1010,
+            "id_cliente": "7935",
+            "nombre": "EL LOBITO",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1011,
+            "id_cliente": "6525",
+            "nombre": "FUNDADORES",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1012,
+            "id_cliente": "6525",
+            "nombre": "MATRIZ",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1013,
+            "id_cliente": "7044",
+            "nombre": "CAPISTRANO",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1014,
+            "id_cliente": "7044",
+            "nombre": "AZTECA",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1015,
+            "id_cliente": "4961",
+            "nombre": "MÉXICO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1018,
+            "id_cliente": "7953",
+            "nombre": "HERMOSILLO",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1019,
+            "id_cliente": "6831",
+            "nombre": "OJO DE AGUA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1020,
+            "id_cliente": "7955",
+            "nombre": "MEXICALI",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1021,
+            "id_cliente": "7616",
+            "nombre": "VILLA DE SERIS",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1022,
+            "id_cliente": "7616",
+            "nombre": "MATRIZ",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1023,
+            "id_cliente": "7616",
+            "nombre": "GUAYMAS",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1024,
+            "id_cliente": "2459",
+            "nombre": "OJO DE AGUA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1025,
+            "id_cliente": "7969",
+            "nombre": "SLRC",
+            "cveVendedor": "GLA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1026,
+            "id_cliente": "7976",
+            "nombre": "MEXICALI",
+            "cveVendedor": "MMC",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1027,
+            "id_cliente": "3158",
+            "nombre": "CHAPULTEPEC",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1029,
+            "id_cliente": "3158",
+            "nombre": "CHAPULPETEC",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1030,
+            "id_cliente": "3702",
+            "nombre": "TECATE",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1031,
+            "id_cliente": "4387",
+            "nombre": "5 y 10",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1032,
+            "id_cliente": "4387",
+            "nombre": "OTAY",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1035,
+            "id_cliente": "7097",
+            "nombre": "PROGRESO",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1036,
+            "id_cliente": "7097",
+            "nombre": "XOCHIMILCO",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1037,
+            "id_cliente": "7119",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1038,
+            "id_cliente": "7119",
+            "nombre": "PIONEROS DE LA PROGRESO",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1039,
+            "id_cliente": "7097",
+            "nombre": "MATRIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1040,
+            "id_cliente": "2459",
+            "nombre": "BAJA MALIBU",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1041,
+            "id_cliente": "6182",
+            "nombre": "ENSENADA",
+            "cveVendedor": "FRA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1042,
+            "id_cliente": "2459",
+            "nombre": "CASA BLANCA",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1043,
+            "id_cliente": "6017",
+            "nombre": "LIBERTAD",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1044,
+            "id_cliente": "6017",
+            "nombre": "MATRIZ",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1045,
+            "id_cliente": "3420",
+            "nombre": "POWERTRAIN",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1046,
+            "id_cliente": "3158",
+            "nombre": "HIDALGO",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1047,
+            "id_cliente": "6569",
+            "nombre": "MATRIZ",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1048,
+            "id_cliente": "6569",
+            "nombre": "PERIFERICO",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1049,
+            "id_cliente": "7630",
+            "nombre": "BUENOS AIRES",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1050,
+            "id_cliente": "7630",
+            "nombre": "EL NIñO",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1051,
+            "id_cliente": "7630",
+            "nombre": "VILLAFONTANA",
+            "cveVendedor": "TME",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1052,
+            "id_cliente": "7442",
+            "nombre": "MEXICALI",
+            "cveVendedor": "CGL",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1053,
+            "id_cliente": "7442",
+            "nombre": "HERMOSILLO",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1054,
+            "id_cliente": "8072",
+            "nombre": "GUAYMAS",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1055,
+            "id_cliente": "6388",
+            "nombre": "CHILPANCINGO",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1056,
+            "id_cliente": "7772",
+            "nombre": "SAN CLEMENTE",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1057,
+            "id_cliente": "7772",
+            "nombre": "MATIZ",
+            "cveVendedor": "RIA",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1058,
+            "id_cliente": "6065",
+            "nombre": "ENSENADA",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1059,
+            "id_cliente": "6065",
+            "nombre": "MEXICALI",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1060,
+            "id_cliente": "6065",
+            "nombre": "JARDIN DORADO",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1061,
+            "id_cliente": "6065",
+            "nombre": "5 y 10",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1062,
+            "id_cliente": "6065",
+            "nombre": "CEDI",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1063,
+            "id_cliente": "2459",
+            "nombre": "20 DE NOVIEMBRE",
+            "cveVendedor": "BJP",
+            "actualizado": "/Date(1746837432203)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1064,
+            "id_cliente": "6081",
+            "nombre": "TIENDA 9",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1065,
+            "id_cliente": "7878",
+            "nombre": "TIJUANA",
+            "cveVendedor": "MEJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1067,
+            "id_cliente": "7878",
+            "nombre": "CABO SAN LUCAS",
+            "cveVendedor": "GPG",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1068,
+            "id_cliente": "7970",
+            "nombre": "BAKALAR",
+            "cveVendedor": "GRL",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1069,
+            "id_cliente": "7970",
+            "nombre": "MATRIZ",
+            "cveVendedor": "GRL",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1070,
+            "id_cliente": "7628",
+            "nombre": "PACIFICO",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1071,
+            "id_cliente": "7628",
+            "nombre": "BENITEZ",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432213)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1072,
+            "id_cliente": "4069",
+            "nombre": "VENECIA",
+            "cveVendedor": "MPM",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1073,
+            "id_cliente": "4069",
+            "nombre": "CASA BLANCA",
+            "cveVendedor": "RNA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1075,
+            "id_cliente": "7902",
+            "nombre": "NAVARRETE",
+            "cveVendedor": "PRO",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1076,
+            "id_cliente": "6606",
+            "nombre": "COLONET",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1077,
+            "id_cliente": "8173",
+            "nombre": "TIJUANA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1078,
+            "id_cliente": "8173",
+            "nombre": "LOS MOCHIS",
+            "cveVendedor": "CGC",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1079,
+            "id_cliente": "7754",
+            "nombre": "OLIVARES",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1080,
+            "id_cliente": "7754",
+            "nombre": "OLIVARES",
+            "cveVendedor": "PGJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1082,
+            "id_cliente": "7754",
+            "nombre": "MATRIZ",
+            "cveVendedor": "PHJ",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1083,
+            "id_cliente": "3149",
+            "nombre": "ALMACEN ROLUE",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1084,
+            "id_cliente": "3149",
+            "nombre": "ALMACEN MÉXICO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432207)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1085,
+            "id_cliente": "8192",
+            "nombre": "PUERTO PEÑASCO",
+            "cveVendedor": "DMM",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1086,
+            "id_cliente": "7867",
+            "nombre": "PINTURAS ALVAMEX",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1087,
+            "id_cliente": "7867",
+            "nombre": "TRUPER 360",
+            "cveVendedor": "OBR",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1088,
+            "id_cliente": "8072",
+            "nombre": "TIJUANA",
+            "cveVendedor": "RRY",
+            "actualizado": "/Date(1746837432217)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1089,
+            "id_cliente": "5997",
+            "nombre": "SOLER",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1090,
+            "id_cliente": "5997",
+            "nombre": "MIRAMAR",
+            "cveVendedor": "HLC",
+            "actualizado": "/Date(1746837432210)/"
+        },
+        {
+            "__type": "WebService_ipadPDF.Sucursal",
+            "id": 1091,
+            "id_cliente": "6081",
+            "nombre": "SAN ANTONIO",
+            "cveVendedor": "TLA",
+            "actualizado": "/Date(1746837432210)/"
+        }
+    ]

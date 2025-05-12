@@ -3,30 +3,31 @@ import SwiftData
 
 struct ClientSelectView: View {
     @Environment(\.modelContext) private var modelContext
+    @State var selectedVendedor: Vendedor?
     @State private var searchText = ""
     @State private var clients: [Client] = []
     @State private var selectedClient: Client?
-    @State var selectedVendedor: Vendedor?
-    @State private var navigateToSucursalView = false
+    
     
     @Query private var allClients: [Client]
     
     private func fetchClients() {
-        print("saerchinv", searchText)
         let descriptor: FetchDescriptor<Client>
+        let vnd = selectedVendedor?.iniciales ?? ""
         
         if searchText.isEmpty {
             descriptor = FetchDescriptor<Client>(
+                predicate: #Predicate<Client> { $0.cveVendedor == vnd },
                 sortBy: [SortDescriptor(\.razon)]
             )
         } else if let searchId = Int(searchText) {
             descriptor = FetchDescriptor<Client>(
-                predicate: #Predicate<Client> { $0.id == searchId },
+                predicate: #Predicate<Client> { $0.id == searchId && $0.cveVendedor == vnd },
                 sortBy: [SortDescriptor(\.razon)]
             )
         } else {
             descriptor = FetchDescriptor<Client>(
-                predicate: #Predicate<Client> { $0.razon.localizedStandardContains(searchText) },
+                predicate: #Predicate<Client> {$0.cveVendedor == vnd && $0.razon.localizedStandardContains(searchText)  },
                 sortBy: [SortDescriptor(\.razon)]
             )
         }
@@ -36,7 +37,6 @@ struct ClientSelectView: View {
             let result = try? modelContext.fetch(descriptor)
             await MainActor.run {
                 clients = result ?? []
-                print("loaded", clients)
             }
         }
     }
@@ -50,37 +50,33 @@ struct ClientSelectView: View {
                 VStack(spacing:0) {
                     
                     List(selection: $selectedClient) {
-                        Section(header:
-                                    Text("Clientes de: \(selectedVendedor?.nombre ?? "")")
+                        Section(header: Text("Clientes de: \(selectedVendedor?.nombre ?? "")")
                             .foregroundColor(.black)
                             .padding(.horizontal, -10)
                         ) {
                             ForEach(clients) { client in
-                                Button {
-                                    selectedClient = client
-                                    navigateToSucursalView = true
-                                } label: {
-                                    VStack(alignment: .leading, spacing: 2) {
-                                        Text("Num: \(String(client.id))")
-                                            .font(.caption)
-                                            .foregroundColor(.tmeDarkGray)
-                                        
-                                        Text(client.razon)
-                                            .lineLimit(1)
-                                            .truncationMode(.tail)
-                                    }
-                                }
-                                .foregroundColor(.primary)
+                               NavigationLink(destination: 
+                                   ClientNavigationDestination(
+                                       selectedClient: client, 
+                                       selectedVendedor: selectedVendedor
+                                   )
+                               ){
+                                       ListItemView(
+                                           caption: "Num: \(String(client.id))",
+                                           text: client.razon,
+                                           id: client.id
+                                       )
+                                   }                                                             
                             }
                         }
                         
                     }
                     .scrollContentBackground(.hidden)
-                    .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always), prompt: "Buscar Cliente")
-                    .keyboardType(.numberPad)
-                    .onChange(of: searchText) { _, _ in
-                        fetchClients()
-                    }
+                    .searchable(
+                        text: $searchText,
+                        placement: .navigationBarDrawer(displayMode: .always),
+                        prompt: "Buscar Cliente"
+                    )
                     .onChange(of: searchText) { _, _ in
                         fetchClients()
                     }
@@ -105,7 +101,7 @@ struct ClientSelectView: View {
 }
 
 #Preview {
-    let vnd = Vendedor(id: 1, iniciales: "BHE", nombre: "BARBOSA HIGUERA EDGAR", correo: "juan@juan.com", password: "123456", almacenes: "1")
+    let vnd = Vendedor(id: 1, iniciales: "TLA", nombre: "TAPIA ALGO ANDRES", correo: "juan@juan.com", password: "123456", almacenes: "1")
     
     let preview = PreviewContainer([Client.self])
     

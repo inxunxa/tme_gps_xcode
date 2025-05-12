@@ -407,5 +407,29 @@
                 "ciudad": "TIJUANA",
                 "actualizado": "/Date(1746837429483)/",
                 "regimen": true
-            }
+            },
+            {
+                        "__type": "WebService_ipadPDF.Cliente",
+                        "id": 6081,
+                        "razon": "MADERAS FINAS LOS PINOS",
+                        "cveVendedor": "TLA",
+                        "cveVendedor2": "",
+                        "nombre": "LOS PINOS",
+                        "estatus": "",
+                        "precio1": 90,
+                        "precio2": 25,
+                        "precio3": 21,
+                        "gps": "",
+                        "credito": 2,
+                        "autorizarDescuento": false,
+                        "tipoCambio": 0,
+                        "unaMoneda": false,
+                        "moneda": "M",
+                        "limiteCredito": 50000,
+                        "prepago": false,
+                        "limiteAtrasadoPermitido": "0",
+                        "ciudad": "TIJUANA",
+                        "actualizado": "/Date(1746837431357)/",
+                        "regimen": true
+                    }
 ]

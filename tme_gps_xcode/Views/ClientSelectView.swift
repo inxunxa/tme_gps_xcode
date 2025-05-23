@@ -71,6 +71,13 @@ struct ClientSelectView: View {
                         clients = Array(Set(clients)).sorted { $0.razon < $1.razon }
                     }
                 }
+
+                // apply the filters to additional clients
+                if let searchId = Int(searchText)  {
+                    clients = clients.filter { $0.id == searchId }
+                } else if !searchText.isEmpty {
+                    clients = clients.filter { $0.razon.localizedStandardContains(searchText) }
+                }
             }
         }
     }

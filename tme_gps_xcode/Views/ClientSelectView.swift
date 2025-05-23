@@ -17,17 +17,23 @@ struct ClientSelectView: View {
         
         if searchText.isEmpty {
             descriptor = FetchDescriptor<Client>(
-                predicate: #Predicate<Client> { $0.cveVendedor == vnd },
+                predicate: #Predicate { client in 
+                    client.cveVendedor == vnd
+                },
                 sortBy: [SortDescriptor(\.razon)]
             )
         } else if let searchId = Int(searchText) {
             descriptor = FetchDescriptor<Client>(
-                predicate: #Predicate<Client> { $0.id == searchId && $0.cveVendedor == vnd },
+                predicate: #Predicate { client in 
+                    client.id == searchId && client.cveVendedor == vnd
+                },
                 sortBy: [SortDescriptor(\.razon)]
             )
         } else {
             descriptor = FetchDescriptor<Client>(
-                predicate: #Predicate<Client> {$0.cveVendedor == vnd && $0.razon.localizedStandardContains(searchText)  },
+                predicate: #Predicate { client in 
+                    client.razon.localizedStandardContains(searchText) && client.cveVendedor == vnd
+                },
                 sortBy: [SortDescriptor(\.razon)]
             )
         }
@@ -37,6 +43,34 @@ struct ClientSelectView: View {
             let result = try? modelContext.fetch(descriptor)
             await MainActor.run {
                 clients = result ?? []
+            }
+        }
+        
+        // Fetch clients with sucursales for this vendedor
+        let sucursalDescriptor = FetchDescriptor<Sucursal>(
+            predicate: #Predicate { sucursal in 
+                sucursal.cveVendedor == vnd
+            }
+        )
+        
+        Task {
+            if let sucursales = try? modelContext.fetch(sucursalDescriptor) {
+                let clientIds = Set(sucursales.compactMap { Int($0.idCliente) })
+                
+                let clientDescriptor = FetchDescriptor<Client>(
+                    predicate: #Predicate { client in 
+                        clientIds.contains(client.id)
+                    },
+                    sortBy: [SortDescriptor(\.razon)]
+                )
+                
+                if let additionalClients = try? modelContext.fetch(clientDescriptor) {
+                    await MainActor.run {
+                        clients.append(contentsOf: additionalClients)
+                        // Remove duplicates and sort
+                        clients = Array(Set(clients)).sorted { $0.razon < $1.razon }
+                    }
+                }
             }
         }
     }

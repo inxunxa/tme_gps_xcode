@@ -25,6 +25,7 @@ final class Client: Identifiable, Decodable, Sendable {
     var ciudad: String
     var actualizado: String
     var regimen: Bool
+
     
     // Initializer for SwiftData
     init(id: Int, razon: String, cveVendedor: String, cveVendedor2: String, nombre: String, estatus: String, precio1: Int, precio2: Int, precio3: Int, gps: String, credito: Double, autorizarDescuento: Bool, tipoCambio: Double, unaMoneda: Bool, moneda: String, limiteCredito: Double, prepago: Bool, limiteAtrasadoPermitido: String, ciudad: String, actualizado: String, regimen: Bool) {
